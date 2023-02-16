@@ -7,6 +7,7 @@
 // @grant       none
 // @run-at      document-start
 // @license     MIT
+// @namespace   https://greasyfork.org/users/1028221
 // ==/UserScript==
 
 if (location.pathname === '/') {
