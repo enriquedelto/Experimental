@@ -3,7 +3,7 @@
 // @match       https://www.youtube.com/*
 // @version     1
 // @author      EnriqueDelto
-// @description Makes the Youtube Main Page inaccessible
+// @description Makes the Youtube Main Page inaccessible by redirecting to the subscription page
 // @grant       none
 // @run-at      document-start
 // @license     MIT
