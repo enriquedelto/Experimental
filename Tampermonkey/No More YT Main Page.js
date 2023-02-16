@@ -1,8 +1,12 @@
 // ==UserScript==
-// @name        YT redir /home -> /sub
+// @name        No More YT Main Page
 // @match       https://www.youtube.com/*
+// @version     1
+// @author      EnriqueDelto
+// @description Makes the Youtube Main Page inaccessible
 // @grant       none
 // @run-at      document-start
+// @license     MIT
 // ==/UserScript==
 
 if (location.pathname === '/') {
